@@ -1,0 +1,62 @@
+/* AI Onramp Weekly — deliberately plain, readable on any screen. */
+
+body {
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: #222;
+  background: #fdfcf9;
+}
+
+header {
+  border-bottom: 2px solid #222;
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+}
+
+header h1 {
+  margin: 0 0 0.25rem;
+  font-size: 2rem;
+}
+
+.tagline {
+  margin: 0;
+  color: #555;
+  font-style: italic;
+}
+
+.week {
+  margin-bottom: 3rem;
+}
+
+.week h1 {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.week h2 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #555;
+  margin-top: 1.5rem;
+}
+
+.week li {
+  margin-bottom: 0.75rem;
+}
+
+a {
+  color: #1a4e8a;
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  margin-top: 2rem;
+  padding-top: 0.75rem;
+  font-size: 0.9rem;
+  color: #666;
+}
