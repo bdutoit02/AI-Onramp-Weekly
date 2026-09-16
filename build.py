@@ -18,7 +18,7 @@ STATIC = ROOT / "static"
 DOCS = ROOT / "docs"
 
 SITE_TITLE = "AI Onramp Weekly"
-TAGLINE = "Curated reading for people keeping up with AI without living on it."
+TAGLINE = "A curated set of notable readings in AI this week."
 REPO_URL = "https://github.com/bdutoit02/AI-Onramp-Weekly"
 
 PAGE = """<!DOCTYPE html>
